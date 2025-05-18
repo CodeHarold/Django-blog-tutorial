@@ -56,4 +56,7 @@ This is a simple blog application using Python and Django. Its main features are
   
 ## Screenshots
 
-![Blog Home Page](https://github.com/CodeHarold/Django-blog-tutorial/blob/main/tutorial/screenshots/homePage.png))
+![Blog Home Page](https://github.com/CodeHarold/Django-blog-tutorial/blob/main/tutorial/screenshots/homePage.png)
+![Post1](https://github.com/CodeHarold/Django-blog-tutorial/blob/main/tutorial/screenshots/post1.png)
+
+
