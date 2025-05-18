@@ -27,30 +27,25 @@ This is a simple blog application using Python and Django. Its main features are
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/CodeHarold/Django-blog-tutorial.git]
+   cd Django-blog-tutorial
    ```
 
-2. **Install dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-3. **Apply migrations:**
+2. **Apply migrations:**
    ```sh
    python manage.py migrate
    ```
 
-4. **Create a superuser (for admin access):**
+3. **Create a superuser (for admin access):**
    ```sh
    python manage.py createsuperuser
    ```
 
-5. **Run the development server:**
+4. **Run the development server:**
    ```sh
    python manage.py runserver
    ```
-6. **Access the app:**
+5. **Access the app:**
    - Blog: [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
    - Admin: [http://127.0.0.1:8000/admin/](http://127.0.0.1:8000/admin/)
   
